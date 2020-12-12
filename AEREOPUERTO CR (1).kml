@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>AEREOPUERTO CR</name>
+	<gx:CascadingStyle kml:id="__managed_style_04D0545B2B1787C9903D">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>5.71429</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F2AC47FA61787C9903C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.80952</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0BAA715E911787C9903C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F2AC47FA61787C9903C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_04D0545B2B1787C9903D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="04CF5A8B0F1787C9903B">
+		<name>AEREOPUERTO</name>
+		<LookAt>
+			<longitude>-3.971679911730133</longitude>
+			<latitude>38.857987713481</latitude>
+			<altitude>638.2526954327074</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000151036504</gx:fovy>
+			<range>9604.236462204717</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAA715E911787C9903C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-3.996180646483312,38.86956038987611,620.6510893298284 -3.999760798080544,38.85809242180277,630.1794594740537 -3.947263687533287,38.85025693853017,651.1537378179486 -3.944482694142375,38.85420889237526,647.6111792228512 -3.962667274831976,38.8675955607841,640.0947003966457 -3.996180646483312,38.86956038987611,620.6510893298284 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0D5E5C69BB1787CD0F4F">
+		<name>HANGAR 1</name>
+		<LookAt>
+			<longitude>-3.987059705041941</longitude>
+			<latitude>38.86606776820356</latitude>
+			<altitude>623.4879793523938</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>395.3112939251878</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAA715E911787C9903C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-3.987656668624208,38.86686520192372,623.2133363746337 -3.987963921884222,38.86580430800684,622.2851887914851 -3.986505239627719,38.86553813296388,623.5906326329796 -3.986290970320142,38.86631282807031,623.1477108707971 -3.985922247475245,38.86623595999518,622.2815854754756 -3.985833081373523,38.86653860844507,623.1231239647512 -3.987656668624208,38.86686520192372,623.2133363746337 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="003C1B2D561787CD6C09">
+		<name>HANGAR 2</name>
+		<LookAt>
+			<longitude>-3.988846863354389</longitude>
+			<latitude>38.86610316290116</latitude>
+			<altitude>622.0189987637148</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>297.4535920426934</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAA715E911787C9903C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-3.988650279891361,38.86591211311176,622.0189376240256 -3.98855850936885,38.86624278706334,622.086548029518 -3.989069282356625,38.86632103209156,622.0110887359752 -3.989155370670083,38.86600596174511,622.018917879778 -3.988650279891361,38.86591211311176,622.0189376240256 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0410AF75D41787CE5D7F">
+		<name>SPAWN HANGAR 1.1</name>
+		<LookAt>
+			<longitude>-3.986949210645768</longitude>
+			<latitude>38.8661653954035</latitude>
+			<altitude>623.564355107511</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>291.5394799020578</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAA715E911787C9903C</styleUrl>
+		<Point>
+			<coordinates>-3.986689912651072,38.86609664223892,624.5713516040918</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CBCC82ECD1787CEA782">
+		<name>SPAWN HANGAR 1.2</name>
+		<LookAt>
+			<longitude>-3.986949210645768</longitude>
+			<latitude>38.8661653954035</latitude>
+			<altitude>623.564355107511</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>291.5394799020578</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAA715E911787C9903C</styleUrl>
+		<Point>
+			<coordinates>-3.987138755644145,38.86619272526092,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D8F9A2EF01787CF0039">
+		<name>SPAWN HANGAR 2.1</name>
+		<LookAt>
+			<longitude>-3.98881029326859</longitude>
+			<latitude>38.86625088955585</latitude>
+			<altitude>622.0190095603114</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>293.0848463393704</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAA715E911787C9903C</styleUrl>
+		<Point>
+			<coordinates>-3.98887094638428,38.86615973355504,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

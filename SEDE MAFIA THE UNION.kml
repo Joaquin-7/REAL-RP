@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SEDE MAFIA THE UNION</name>
+	<gx:CascadingStyle kml:id="__managed_style_0F43BA966D1787EA7B74">
+    <rol: THE UNION>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>5.71429</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0329957C1B1787EA7B70">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.80952</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_071836CA391787EA7B6F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0329957C1B1787EA7B70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0F43BA966D1787EA7B74</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0B6AAA7F411787EA7B6C">
+		<name>PATIO</name>
+		<LookAt>
+			<longitude>-3.626393058655177</longitude>
+			<latitude>39.10233866200068</latitude>
+			<altitude>617.7099556704599</altitude>
+			<heading>221.7908963882954</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>110.1589577890991</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_071836CA391787EA7B6F</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-3.626071486335255,39.10214686898569,616.1114261394504 -3.626189404181103,39.10238772042444,615.6486091851723 -3.62630207535911,39.10235934242081,617.0078485120519 -3.626285329046514,39.10230191308413,617.2053566859988 -3.626268099019418,39.10226842267666,617.4028648599457 -3.626542756424198,39.10219633963913,618.7451087877002 -3.626521394452906,39.10205096200563,618.930450696125 -3.626071486335255,39.10214686898569,616.1114261394504 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0F9322CA6D1787EB9D28">
+		<name>CASA</name>
+		<LookAt>
+			<longitude>-3.626393058655177</longitude>
+			<latitude>39.10233866195842</latitude>
+			<altitude>617.7099556704599</altitude>
+			<heading>221.7908963882954</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>110.1589577890991</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_071836CA391787EA7B6F</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-3.626270377141869,39.10226211009445,617.4505061098656 -3.626290276502169,39.102303543297,617.3555174310834 -3.62634342002607,39.10229309772641,617.8236422013237 -3.626411051642877,39.10227989193048,618.036763042587 -3.626435444279488,39.10233336048762,617.8567979439414 -3.626541018282977,39.10231018080611,618.2718832197298 -3.626495596925063,39.10221397417222,618.5681232653654 -3.62644609647979,39.10222630656938,618.4414889655696 -3.626431578177089,39.10222139217581,618.399750111163 -3.626270377141869,39.10226211009445,617.4505061098656 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="080E0DF7E61787EBE801">
+		<name>GARAGE</name>
+		<LookAt>
+			<longitude>-3.626393058655177</longitude>
+			<latitude>39.10233866195842</latitude>
+			<altitude>617.7099556704599</altitude>
+			<heading>221.7908963882954</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>110.1589577890991</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_071836CA391787EA7B6F</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-3.626432833454841,39.10233416525074,617.8455169646797 -3.626242487580169,39.10238097883391,616.2792810711635 -3.626308780609715,39.10253921798829,615.976660498661 -3.626494711010411,39.10249156849305,617.1030673145184 -3.626432833454841,39.10233416525074,617.8455169646797 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="078B9A17BE1787EC1BCD">
+		<name>SEDE</name>
+		<LookAt>
+			<longitude>-3.626393058655177</longitude>
+			<latitude>39.10233866195842</latitude>
+			<altitude>617.7099556704599</altitude>
+			<heading>221.7908963882954</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>110.1589577890991</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_071836CA391787EA7B6F</styleUrl>
+		<Point>
+			<coordinates>-3.626441198802875,39.10225986419788,618.9088526719152</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
