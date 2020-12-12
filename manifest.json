@@ -1,0 +1,24 @@
+{
+  "lang": "en",
+  "nombre": "Google Earth",
+  "short_name": "Tierra",
+  "iconos": [{
+        "src": "iconos / icono-64.png",
+        "tamaños": "64 x 64",
+        "tipo": "imagen / png"
+      }, {
+        "src": "iconos / icono-128.png",
+        "tamaños": "128x128",
+        "tipo": "imagen / png",
+        "densidad": 2
+      }, {
+        "src": "iconos / icono-144.png",
+        "tamaños": "144x144",
+        "tipo": "imagen / png"
+      }],
+  "alcance": ".",
+  "start_url": "app_min.html",
+  "pantalla": "independiente",
+  "orientación": "cualquiera",
+  "theme_color": "# 263238"
+}
